@@ -1,5 +1,5 @@
-NAME="Naien Linux"
-PRETTY_NAME="Naien Linux"
+NAME="Array Linux"
+PRETTY_NAME="Array Linux"
 ID=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"

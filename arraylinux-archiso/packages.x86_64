@@ -5,17 +5,14 @@ bash
 bcachefs-tools
 bind
 bolt
-brltty
 broadcom-wl
 btrfs-progs
-cloud-init
 cryptsetup
 dhclient
 dhcpcd
 diffutils
 dmidecode
 dmraid
-dnsmasq
 dosfstools
 e2fsprogs
 edk2-shell
@@ -73,7 +70,6 @@ open-vm-tools
 openconnect
 openpgp-card-tools
 openssh
-openvpn
 partclone
 parted
 pcsclite
@@ -104,7 +100,6 @@ usb_modeswitch
 usbmuxd
 usbutils
 virtualbox-guest-utils-nox
-vpnc
 wireless-regdb
 wireless_tools
 wpa_supplicant
