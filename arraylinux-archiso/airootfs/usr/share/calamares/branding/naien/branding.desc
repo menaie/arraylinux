@@ -1,0 +1,61 @@
+# SPDX-FileCopyrightText: no
+# SPDX-License-Identifier: CC0-1.0
+#
+# Product branding information. This influences some global
+# user-visible aspects of Calamares, such as the product
+# name, window behavior, and the slideshow during installation.
+#
+# Additional styling can be done using the stylesheet.qss
+# file, also in the branding directory.
+---
+componentName:  default
+
+welcomeStyleCalamares:   false
+
+welcomeExpandingLogo:   true
+
+windowExpanding:    normal
+
+windowSize: 800px,520px
+
+windowPlacement: center
+
+sidebar: widget
+
+navigation: widget
+
+strings:
+    productName:         "Naien Linux"
+    shortProductName:    Naien
+    version:             24.11.1
+    shortVersion:        24.11.1
+    versionedName:       Naien Linux 24.11.1
+    shortVersionedName:  Naien 24.11.1
+    bootloaderEntryName: Naien
+    productUrl:          https://calamares.io/
+    supportUrl:          https://github.com/calamares/calamares/wiki
+    knownIssuesUrl:      https://github.com/calamares/calamares/issues
+    releaseNotesUrl:     https://calamares.io/news/
+    donateUrl:           https://kde.org/community/donations/index.php
+
+images:
+    productBanner:       "banner.png"
+    productIcon:         "squid.png"
+    productLogo:         "squid.png"
+
+style:
+   SidebarBackground:        "#140818"
+   SidebarText:              "#FFFFFF"
+   SidebarTextCurrent:       "#FFFFFF"
+   SidebarBackgroundCurrent: "#a13ea6"
+
+
+slideshow:               "show.qml"
+
+slideshowAPI: 2
+
+
+uploadServer :
+    type :    "fiche"
+    url :     "http://termbin.com:9999"
+    sizeLimit : -1
