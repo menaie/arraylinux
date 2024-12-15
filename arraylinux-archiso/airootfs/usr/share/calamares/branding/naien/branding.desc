@@ -25,13 +25,13 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         "Naien Linux"
-    shortProductName:    Naien
+    productName:         "Array Linux"
+    shortProductName:    Array
     version:             24.11.1
     shortVersion:        24.11.1
-    versionedName:       Naien Linux 24.11.1
-    shortVersionedName:  Naien 24.11.1
-    bootloaderEntryName: Naien
+    versionedName:       Array Linux 24.11.1
+    shortVersionedName:  Array 24.11.1
+    bootloaderEntryName: Array
     productUrl:          https://calamares.io/
     supportUrl:          https://github.com/calamares/calamares/wiki
     knownIssuesUrl:      https://github.com/calamares/calamares/issues
@@ -44,10 +44,10 @@ images:
     productLogo:         "squid.png"
 
 style:
-   SidebarBackground:        "#140818"
-   SidebarText:              "#FFFFFF"
-   SidebarTextCurrent:       "#FFFFFF"
-   SidebarBackgroundCurrent: "#a13ea6"
+   SidebarBackground:        "#121623"
+   SidebarText:              "#dedee4"
+   SidebarTextCurrent:       "#dedee4"
+   SidebarBackgroundCurrent: "#508497"
 
 
 slideshow:               "show.qml"

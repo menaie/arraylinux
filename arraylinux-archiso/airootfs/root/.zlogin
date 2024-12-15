@@ -4,5 +4,3 @@ if grep -Fqa 'accessibility=' /proc/cmdline &> /dev/null; then
 fi
 
 ~/.automated_script.sh
-chmod +x /home/naien/.config/calhypr.sh
-~/.calkde.sh
