@@ -38,4 +38,4 @@ or you can write a script called ``build.sh`` or anything you want
     sudo mkarchiso -v ~/arraylinux/arraylinux-hyprland -w ~/work -o ~/out
 then do ``chmod +x build.sh``
 
-If you need to change anything, you should use ```sudo rm -r``` on both folders "work" and "out"
+If you need to change anything, you should use ```sudo rm -r``` on both folders "work" and "out" before building the ISO again
