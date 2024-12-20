@@ -28,7 +28,7 @@ Now you can proceed to modify anything you want before building the ISO by doing
 
     $ sudo mkarchiso -v ~/arraylinux/arraylinux-hyprland -w ~/work -o ~/out
 
-or you can write a script
+or you can write a script called ``build.sh`` or anything you want
 
     #!/bin/bash
 
