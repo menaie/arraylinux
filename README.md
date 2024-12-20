@@ -31,10 +31,11 @@ Now you can proceed to modify anything you want before building the ISO by doing
 or you can write a script
 
     #!/bin/bash
-    
+
     mkdir ~/work
     mkdir ~/out
 
     sudo mkarchiso -v ~/arraylinux/arraylinux-hyprland -w ~/work -o ~/out
+then do ``chmod +x build.sh``
 
 If you need to change anything, you should use ```sudo rm -r``` on both folders "work" and "out"
